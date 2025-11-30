@@ -3,7 +3,7 @@
 set -e # Detener el script si hay algún error
 
 # Configuración
-IMAGE_NAME="kevcam7/pico-builder"
+IMAGE_NAME="kevcam7/pico-builder:slimer"
 PROJECT_DIR=$(pwd)
 BUILD_DIR="build"
 
